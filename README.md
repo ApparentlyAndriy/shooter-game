@@ -4,4 +4,4 @@ watch out for the dangerous asteroids and shoot the aliens, but dont let them ge
 watch out and dont get hit either..
 Your ship has three lives and needs two hit at least 3 aliens.
 ## What our game looks like
-![game_photo](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task01/result_task01.png)
+![game_photo](https://github.com/ApparentlyAndriy/shooter-game/blob/main/image.png)
